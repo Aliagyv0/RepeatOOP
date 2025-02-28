@@ -1,0 +1,257 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ali\\source\\repos\\HomeTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64669D5B-DC4A-4A40-920C-628D79AEBB61}|HomeTask\\HomeTask.csproj|c:\\users\\ali\\source\\repos\\hometask\\hometask\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64669D5B-DC4A-4A40-920C-628D79AEBB61}|HomeTask\\HomeTask.csproj|solutionrelative:hometask\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64669D5B-DC4A-4A40-920C-628D79AEBB61}|HomeTask\\HomeTask.csproj|C:\\Users\\Ali\\source\\repos\\HomeTask\\hometask\\contractemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64669D5B-DC4A-4A40-920C-628D79AEBB61}|HomeTask\\HomeTask.csproj|solutionrelative:hometask\\contractemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64669D5B-DC4A-4A40-920C-628D79AEBB61}|HomeTask\\HomeTask.csproj|C:\\Users\\Ali\\source\\repos\\HomeTask\\hometask\\fulltimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64669D5B-DC4A-4A40-920C-628D79AEBB61}|HomeTask\\HomeTask.csproj|solutionrelative:hometask\\fulltimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EEF4D22-FA66-4D80-ACDC-5D7F90B6CE1A}|OOP.Task\\OOP.Task.csproj|C:\\Users\\Ali\\source\\repos\\HomeTask\\oop.task\\task3\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EEF4D22-FA66-4D80-ACDC-5D7F90B6CE1A}|OOP.Task\\OOP.Task.csproj|solutionrelative:oop.task\\task3\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EEF4D22-FA66-4D80-ACDC-5D7F90B6CE1A}|OOP.Task\\OOP.Task.csproj|C:\\Users\\Ali\\source\\repos\\HomeTask\\oop.task\\task2\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EEF4D22-FA66-4D80-ACDC-5D7F90B6CE1A}|OOP.Task\\OOP.Task.csproj|solutionrelative:oop.task\\task2\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5291C78-12BE-4515-95D7-8E720F81681C}|OOP.Part1Task\\OOP.Part1Task.csproj|C:\\Users\\Ali\\source\\repos\\HomeTask\\oop.part1task\\task2\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5291C78-12BE-4515-95D7-8E720F81681C}|OOP.Part1Task\\OOP.Part1Task.csproj|solutionrelative:oop.part1task\\task2\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5291C78-12BE-4515-95D7-8E720F81681C}|OOP.Part1Task\\OOP.Part1Task.csproj|C:\\Users\\Ali\\source\\repos\\HomeTask\\oop.part1task\\task1\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5291C78-12BE-4515-95D7-8E720F81681C}|OOP.Part1Task\\OOP.Part1Task.csproj|solutionrelative:oop.part1task\\task1\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EEF4D22-FA66-4D80-ACDC-5D7F90B6CE1A}|OOP.Task\\OOP.Task.csproj|C:\\Users\\Ali\\source\\repos\\HomeTask\\oop.task\\task3\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EEF4D22-FA66-4D80-ACDC-5D7F90B6CE1A}|OOP.Task\\OOP.Task.csproj|solutionrelative:oop.task\\task3\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EEF4D22-FA66-4D80-ACDC-5D7F90B6CE1A}|OOP.Task\\OOP.Task.csproj|C:\\Users\\Ali\\source\\repos\\HomeTask\\oop.task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EEF4D22-FA66-4D80-ACDC-5D7F90B6CE1A}|OOP.Task\\OOP.Task.csproj|solutionrelative:oop.task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EEF4D22-FA66-4D80-ACDC-5D7F90B6CE1A}|OOP.Task\\OOP.Task.csproj|C:\\Users\\Ali\\source\\repos\\HomeTask\\oop.task\\task1\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EEF4D22-FA66-4D80-ACDC-5D7F90B6CE1A}|OOP.Task\\OOP.Task.csproj|solutionrelative:oop.task\\task1\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5291C78-12BE-4515-95D7-8E720F81681C}|OOP.Part1Task\\OOP.Part1Task.csproj|C:\\Users\\Ali\\source\\repos\\HomeTask\\oop.part1task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5291C78-12BE-4515-95D7-8E720F81681C}|OOP.Part1Task\\OOP.Part1Task.csproj|solutionrelative:oop.part1task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64669D5B-DC4A-4A40-920C-628D79AEBB61}|HomeTask\\HomeTask.csproj|C:\\Users\\Ali\\source\\repos\\HomeTask\\hometask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64669D5B-DC4A-4A40-920C-628D79AEBB61}|HomeTask\\HomeTask.csproj|solutionrelative:hometask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64669D5B-DC4A-4A40-920C-628D79AEBB61}|HomeTask\\HomeTask.csproj|C:\\Users\\Ali\\source\\repos\\HomeTask\\hometask\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64669D5B-DC4A-4A40-920C-628D79AEBB61}|HomeTask\\HomeTask.csproj|solutionrelative:hometask\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64669D5B-DC4A-4A40-920C-628D79AEBB61}|HomeTask\\HomeTask.csproj|C:\\Users\\Ali\\source\\repos\\HomeTask\\hometask\\bankhesab\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64669D5B-DC4A-4A40-920C-628D79AEBB61}|HomeTask\\HomeTask.csproj|solutionrelative:hometask\\bankhesab\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:937911271:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1223701457:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1243899234:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\HomeTask\\OOP.Part1Task\\Task2\\Person.cs",
+              "RelativeDocumentMoniker": "OOP.Part1Task\\Task2\\Person.cs",
+              "ToolTip": "C:\\Users\\Ali\\source\\repos\\HomeTask\\OOP.Part1Task\\Task2\\Person.cs",
+              "RelativeToolTip": "OOP.Part1Task\\Task2\\Person.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T23:47:53.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\HomeTask\\OOP.Part1Task\\Task1\\Circle.cs",
+              "RelativeDocumentMoniker": "OOP.Part1Task\\Task1\\Circle.cs",
+              "ToolTip": "C:\\Users\\Ali\\source\\repos\\HomeTask\\OOP.Part1Task\\Task1\\Circle.cs",
+              "RelativeToolTip": "OOP.Part1Task\\Task1\\Circle.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAswA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T23:36:48.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\HomeTask\\OOP.Task\\Task3\\Department.cs",
+              "RelativeDocumentMoniker": "OOP.Task\\Task3\\Department.cs",
+              "ToolTip": "C:\\Users\\Ali\\source\\repos\\HomeTask\\OOP.Task\\Task3\\Department.cs",
+              "RelativeToolTip": "OOP.Task\\Task3\\Department.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T19:24:55.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\HomeTask\\OOP.Task\\Task3\\Employee.cs",
+              "RelativeDocumentMoniker": "OOP.Task\\Task3\\Employee.cs",
+              "ToolTip": "C:\\Users\\Ali\\source\\repos\\HomeTask\\OOP.Task\\Task3\\Employee.cs",
+              "RelativeToolTip": "OOP.Task\\Task3\\Employee.cs",
+              "ViewState": "AgIAACgAAADgAAAAACA7wBUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T19:24:42.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\HomeTask\\OOP.Task\\Task2\\Shape.cs",
+              "RelativeDocumentMoniker": "OOP.Task\\Task2\\Shape.cs",
+              "ToolTip": "C:\\Users\\Ali\\source\\repos\\HomeTask\\OOP.Task\\Task2\\Shape.cs",
+              "RelativeToolTip": "OOP.Task\\Task2\\Shape.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwBsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T18:48:41.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FullTimeEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\HomeTask\\HomeTask\\FullTimeEmployee.cs",
+              "RelativeDocumentMoniker": "HomeTask\\FullTimeEmployee.cs",
+              "ToolTip": "C:\\Users\\Ali\\source\\repos\\HomeTask\\HomeTask\\FullTimeEmployee.cs",
+              "RelativeToolTip": "HomeTask\\FullTimeEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T09:48:49.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContractEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\HomeTask\\HomeTask\\ContractEmployee.cs",
+              "RelativeDocumentMoniker": "HomeTask\\ContractEmployee.cs",
+              "ToolTip": "C:\\Users\\Ali\\source\\repos\\HomeTask\\HomeTask\\ContractEmployee.cs",
+              "RelativeToolTip": "HomeTask\\ContractEmployee.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAqwBAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T09:50:51.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\HomeTask\\HomeTask\\Employee.cs",
+              "RelativeDocumentMoniker": "HomeTask\\Employee.cs",
+              "ToolTip": "C:\\Users\\Ali\\source\\repos\\HomeTask\\HomeTask\\Employee.cs",
+              "RelativeToolTip": "HomeTask\\Employee.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T09:43:59.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\HomeTask\\OOP.Task\\Program.cs",
+              "RelativeDocumentMoniker": "OOP.Task\\Program.cs",
+              "ToolTip": "C:\\Users\\Ali\\source\\repos\\HomeTask\\OOP.Task\\Program.cs",
+              "RelativeToolTip": "OOP.Task\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAQwBIAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T18:09:27.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\HomeTask\\OOP.Task\\Task1\\User.cs",
+              "RelativeDocumentMoniker": "OOP.Task\\Task1\\User.cs",
+              "ToolTip": "C:\\Users\\Ali\\source\\repos\\HomeTask\\OOP.Task\\Task1\\User.cs",
+              "RelativeToolTip": "OOP.Task\\Task1\\User.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T18:12:52.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\HomeTask\\OOP.Part1Task\\Program.cs",
+              "RelativeDocumentMoniker": "OOP.Part1Task\\Program.cs",
+              "ToolTip": "C:\\Users\\Ali\\source\\repos\\HomeTask\\OOP.Part1Task\\Program.cs",
+              "RelativeToolTip": "OOP.Part1Task\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAIwBMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T23:35:32.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\HomeTask\\HomeTask\\Car.cs",
+              "RelativeDocumentMoniker": "HomeTask\\Car.cs",
+              "ToolTip": "C:\\Users\\Ali\\source\\repos\\HomeTask\\HomeTask\\Car.cs",
+              "RelativeToolTip": "HomeTask\\Car.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAwwC0AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T21:45:15.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BankHesab\u0131.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\HomeTask\\HomeTask\\BankHesab\u0131.cs",
+              "RelativeDocumentMoniker": "HomeTask\\BankHesab\u0131.cs",
+              "ToolTip": "C:\\Users\\Ali\\source\\repos\\HomeTask\\HomeTask\\BankHesab\u0131.cs",
+              "RelativeToolTip": "HomeTask\\BankHesab\u0131.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAwwEsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T20:58:52.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\HomeTask\\HomeTask\\Program.cs",
+              "RelativeDocumentMoniker": "HomeTask\\Program.cs",
+              "ToolTip": "C:\\Users\\Ali\\source\\repos\\HomeTask\\HomeTask\\Program.cs",
+              "RelativeToolTip": "HomeTask\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T20:58:19.707Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

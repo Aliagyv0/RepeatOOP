@@ -1,0 +1,7 @@
+C:\Users\Ali\source\repos\HomeTask\OOP.Part1Task\bin\Debug\OOP.Part1Task.exe.config
+C:\Users\Ali\source\repos\HomeTask\OOP.Part1Task\bin\Debug\OOP.Part1Task.exe
+C:\Users\Ali\source\repos\HomeTask\OOP.Part1Task\bin\Debug\OOP.Part1Task.pdb
+C:\Users\Ali\source\repos\HomeTask\OOP.Part1Task\obj\Debug\OOP.Part1Task.csproj.AssemblyReference.cache
+C:\Users\Ali\source\repos\HomeTask\OOP.Part1Task\obj\Debug\OOP.Part1Task.csproj.CoreCompileInputs.cache
+C:\Users\Ali\source\repos\HomeTask\OOP.Part1Task\obj\Debug\OOP.Part1Task.exe
+C:\Users\Ali\source\repos\HomeTask\OOP.Part1Task\obj\Debug\OOP.Part1Task.pdb
