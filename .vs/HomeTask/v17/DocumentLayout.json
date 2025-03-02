@@ -3,60 +3,68 @@
   "WorkspaceRootPath": "C:\\Users\\Ali\\source\\repos\\HomeTask\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{64669D5B-DC4A-4A40-920C-628D79AEBB61}|HomeTask\\HomeTask.csproj|c:\\users\\ali\\source\\repos\\hometask\\hometask\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64669D5B-DC4A-4A40-920C-628D79AEBB61}|HomeTask\\HomeTask.csproj|solutionrelative:hometask\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9921BD0E-4653-46ED-B347-4DA6B91FE291}|AbstractionTasks\\AbstractionTasks.csproj|c:\\users\\ali\\source\\repos\\hometask\\abstractiontasks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9921BD0E-4653-46ED-B347-4DA6B91FE291}|AbstractionTasks\\AbstractionTasks.csproj|solutionrelative:abstractiontasks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{64669D5B-DC4A-4A40-920C-628D79AEBB61}|HomeTask\\HomeTask.csproj|C:\\Users\\Ali\\source\\repos\\HomeTask\\hometask\\contractemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64669D5B-DC4A-4A40-920C-628D79AEBB61}|HomeTask\\HomeTask.csproj|solutionrelative:hometask\\contractemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9921BD0E-4653-46ED-B347-4DA6B91FE291}|AbstractionTasks\\AbstractionTasks.csproj|C:\\Users\\Ali\\source\\repos\\HomeTask\\abstractiontasks\\task7\\trafficlight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9921BD0E-4653-46ED-B347-4DA6B91FE291}|AbstractionTasks\\AbstractionTasks.csproj|solutionrelative:abstractiontasks\\task7\\trafficlight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{64669D5B-DC4A-4A40-920C-628D79AEBB61}|HomeTask\\HomeTask.csproj|C:\\Users\\Ali\\source\\repos\\HomeTask\\hometask\\fulltimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64669D5B-DC4A-4A40-920C-628D79AEBB61}|HomeTask\\HomeTask.csproj|solutionrelative:hometask\\fulltimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9921BD0E-4653-46ED-B347-4DA6B91FE291}|AbstractionTasks\\AbstractionTasks.csproj|C:\\Users\\Ali\\source\\repos\\HomeTask\\abstractiontasks\\task6\\weathercondition .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9921BD0E-4653-46ED-B347-4DA6B91FE291}|AbstractionTasks\\AbstractionTasks.csproj|solutionrelative:abstractiontasks\\task6\\weathercondition .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0EEF4D22-FA66-4D80-ACDC-5D7F90B6CE1A}|OOP.Task\\OOP.Task.csproj|C:\\Users\\Ali\\source\\repos\\HomeTask\\oop.task\\task3\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0EEF4D22-FA66-4D80-ACDC-5D7F90B6CE1A}|OOP.Task\\OOP.Task.csproj|solutionrelative:oop.task\\task3\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9921BD0E-4653-46ED-B347-4DA6B91FE291}|AbstractionTasks\\AbstractionTasks.csproj|C:\\Users\\Ali\\source\\repos\\HomeTask\\abstractiontasks\\task5\\refrigerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9921BD0E-4653-46ED-B347-4DA6B91FE291}|AbstractionTasks\\AbstractionTasks.csproj|solutionrelative:abstractiontasks\\task5\\refrigerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0EEF4D22-FA66-4D80-ACDC-5D7F90B6CE1A}|OOP.Task\\OOP.Task.csproj|C:\\Users\\Ali\\source\\repos\\HomeTask\\oop.task\\task2\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0EEF4D22-FA66-4D80-ACDC-5D7F90B6CE1A}|OOP.Task\\OOP.Task.csproj|solutionrelative:oop.task\\task2\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9921BD0E-4653-46ED-B347-4DA6B91FE291}|AbstractionTasks\\AbstractionTasks.csproj|C:\\Users\\Ali\\source\\repos\\HomeTask\\abstractiontasks\\task5\\ihomeappliance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9921BD0E-4653-46ED-B347-4DA6B91FE291}|AbstractionTasks\\AbstractionTasks.csproj|solutionrelative:abstractiontasks\\task5\\ihomeappliance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E5291C78-12BE-4515-95D7-8E720F81681C}|OOP.Part1Task\\OOP.Part1Task.csproj|C:\\Users\\Ali\\source\\repos\\HomeTask\\oop.part1task\\task2\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5291C78-12BE-4515-95D7-8E720F81681C}|OOP.Part1Task\\OOP.Part1Task.csproj|solutionrelative:oop.part1task\\task2\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9921BD0E-4653-46ED-B347-4DA6B91FE291}|AbstractionTasks\\AbstractionTasks.csproj|C:\\Users\\Ali\\source\\repos\\HomeTask\\abstractiontasks\\task5\\iappliance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9921BD0E-4653-46ED-B347-4DA6B91FE291}|AbstractionTasks\\AbstractionTasks.csproj|solutionrelative:abstractiontasks\\task5\\iappliance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E5291C78-12BE-4515-95D7-8E720F81681C}|OOP.Part1Task\\OOP.Part1Task.csproj|C:\\Users\\Ali\\source\\repos\\HomeTask\\oop.part1task\\task1\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5291C78-12BE-4515-95D7-8E720F81681C}|OOP.Part1Task\\OOP.Part1Task.csproj|solutionrelative:oop.part1task\\task1\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9921BD0E-4653-46ED-B347-4DA6B91FE291}|AbstractionTasks\\AbstractionTasks.csproj|C:\\Users\\Ali\\source\\repos\\HomeTask\\abstractiontasks\\task4\\automobile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9921BD0E-4653-46ED-B347-4DA6B91FE291}|AbstractionTasks\\AbstractionTasks.csproj|solutionrelative:abstractiontasks\\task4\\automobile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0EEF4D22-FA66-4D80-ACDC-5D7F90B6CE1A}|OOP.Task\\OOP.Task.csproj|C:\\Users\\Ali\\source\\repos\\HomeTask\\oop.task\\task3\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0EEF4D22-FA66-4D80-ACDC-5D7F90B6CE1A}|OOP.Task\\OOP.Task.csproj|solutionrelative:oop.task\\task3\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9921BD0E-4653-46ED-B347-4DA6B91FE291}|AbstractionTasks\\AbstractionTasks.csproj|C:\\Users\\Ali\\source\\repos\\HomeTask\\abstractiontasks\\task4\\ivehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9921BD0E-4653-46ED-B347-4DA6B91FE291}|AbstractionTasks\\AbstractionTasks.csproj|solutionrelative:abstractiontasks\\task4\\ivehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0EEF4D22-FA66-4D80-ACDC-5D7F90B6CE1A}|OOP.Task\\OOP.Task.csproj|C:\\Users\\Ali\\source\\repos\\HomeTask\\oop.task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0EEF4D22-FA66-4D80-ACDC-5D7F90B6CE1A}|OOP.Task\\OOP.Task.csproj|solutionrelative:oop.task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9921BD0E-4653-46ED-B347-4DA6B91FE291}|AbstractionTasks\\AbstractionTasks.csproj|C:\\Users\\Ali\\source\\repos\\HomeTask\\abstractiontasks\\task4\\imovable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9921BD0E-4653-46ED-B347-4DA6B91FE291}|AbstractionTasks\\AbstractionTasks.csproj|solutionrelative:abstractiontasks\\task4\\imovable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0EEF4D22-FA66-4D80-ACDC-5D7F90B6CE1A}|OOP.Task\\OOP.Task.csproj|C:\\Users\\Ali\\source\\repos\\HomeTask\\oop.task\\task1\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0EEF4D22-FA66-4D80-ACDC-5D7F90B6CE1A}|OOP.Task\\OOP.Task.csproj|solutionrelative:oop.task\\task1\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9921BD0E-4653-46ED-B347-4DA6B91FE291}|AbstractionTasks\\AbstractionTasks.csproj|C:\\Users\\Ali\\source\\repos\\HomeTask\\abstractiontasks\\task3\\multifunctionprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9921BD0E-4653-46ED-B347-4DA6B91FE291}|AbstractionTasks\\AbstractionTasks.csproj|solutionrelative:abstractiontasks\\task3\\multifunctionprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E5291C78-12BE-4515-95D7-8E720F81681C}|OOP.Part1Task\\OOP.Part1Task.csproj|C:\\Users\\Ali\\source\\repos\\HomeTask\\oop.part1task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5291C78-12BE-4515-95D7-8E720F81681C}|OOP.Part1Task\\OOP.Part1Task.csproj|solutionrelative:oop.part1task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9921BD0E-4653-46ED-B347-4DA6B91FE291}|AbstractionTasks\\AbstractionTasks.csproj|C:\\Users\\Ali\\source\\repos\\HomeTask\\abstractiontasks\\task3\\iprintable .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9921BD0E-4653-46ED-B347-4DA6B91FE291}|AbstractionTasks\\AbstractionTasks.csproj|solutionrelative:abstractiontasks\\task3\\iprintable .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{64669D5B-DC4A-4A40-920C-628D79AEBB61}|HomeTask\\HomeTask.csproj|C:\\Users\\Ali\\source\\repos\\HomeTask\\hometask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64669D5B-DC4A-4A40-920C-628D79AEBB61}|HomeTask\\HomeTask.csproj|solutionrelative:hometask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9921BD0E-4653-46ED-B347-4DA6B91FE291}|AbstractionTasks\\AbstractionTasks.csproj|C:\\Users\\Ali\\source\\repos\\HomeTask\\abstractiontasks\\task3\\iscanable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9921BD0E-4653-46ED-B347-4DA6B91FE291}|AbstractionTasks\\AbstractionTasks.csproj|solutionrelative:abstractiontasks\\task3\\iscanable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{64669D5B-DC4A-4A40-920C-628D79AEBB61}|HomeTask\\HomeTask.csproj|C:\\Users\\Ali\\source\\repos\\HomeTask\\hometask\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64669D5B-DC4A-4A40-920C-628D79AEBB61}|HomeTask\\HomeTask.csproj|solutionrelative:hometask\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9921BD0E-4653-46ED-B347-4DA6B91FE291}|AbstractionTasks\\AbstractionTasks.csproj|C:\\Users\\Ali\\source\\repos\\HomeTask\\abstractiontasks\\task2\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9921BD0E-4653-46ED-B347-4DA6B91FE291}|AbstractionTasks\\AbstractionTasks.csproj|solutionrelative:abstractiontasks\\task2\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{64669D5B-DC4A-4A40-920C-628D79AEBB61}|HomeTask\\HomeTask.csproj|C:\\Users\\Ali\\source\\repos\\HomeTask\\hometask\\bankhesab\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64669D5B-DC4A-4A40-920C-628D79AEBB61}|HomeTask\\HomeTask.csproj|solutionrelative:hometask\\bankhesab\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9921BD0E-4653-46ED-B347-4DA6B91FE291}|AbstractionTasks\\AbstractionTasks.csproj|C:\\Users\\Ali\\source\\repos\\HomeTask\\abstractiontasks\\task2\\ivehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9921BD0E-4653-46ED-B347-4DA6B91FE291}|AbstractionTasks\\AbstractionTasks.csproj|solutionrelative:abstractiontasks\\task2\\ivehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9921BD0E-4653-46ED-B347-4DA6B91FE291}|AbstractionTasks\\AbstractionTasks.csproj|C:\\Users\\Ali\\source\\repos\\HomeTask\\abstractiontasks\\task1\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9921BD0E-4653-46ED-B347-4DA6B91FE291}|AbstractionTasks\\AbstractionTasks.csproj|solutionrelative:abstractiontasks\\task1\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9921BD0E-4653-46ED-B347-4DA6B91FE291}|AbstractionTasks\\AbstractionTasks.csproj|C:\\Users\\Ali\\source\\repos\\HomeTask\\abstractiontasks\\task1\\isape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9921BD0E-4653-46ED-B347-4DA6B91FE291}|AbstractionTasks\\AbstractionTasks.csproj|solutionrelative:abstractiontasks\\task1\\isape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,7 +74,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -82,172 +90,196 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IAppliance.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\HomeTask\\AbstractionTasks\\Task5\\IAppliance.cs",
+              "RelativeDocumentMoniker": "AbstractionTasks\\Task5\\IAppliance.cs",
+              "ToolTip": "C:\\Users\\Ali\\source\\repos\\HomeTask\\AbstractionTasks\\Task5\\IAppliance.cs",
+              "RelativeToolTip": "AbstractionTasks\\Task5\\IAppliance.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T14:12:10.829Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Circle.cs",
-              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\HomeTask\\OOP.Part1Task\\Task1\\Circle.cs",
-              "RelativeDocumentMoniker": "OOP.Part1Task\\Task1\\Circle.cs",
-              "ToolTip": "C:\\Users\\Ali\\source\\repos\\HomeTask\\OOP.Part1Task\\Task1\\Circle.cs",
-              "RelativeToolTip": "OOP.Part1Task\\Task1\\Circle.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAswA4AAAAJAAAAAAAAAA==",
+              "Title": "Automobile.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\HomeTask\\AbstractionTasks\\Task4\\Automobile.cs",
+              "RelativeDocumentMoniker": "AbstractionTasks\\Task4\\Automobile.cs",
+              "ToolTip": "C:\\Users\\Ali\\source\\repos\\HomeTask\\AbstractionTasks\\Task4\\Automobile.cs",
+              "RelativeToolTip": "AbstractionTasks\\Task4\\Automobile.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABQAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T23:36:48.965Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Department.cs",
-              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\HomeTask\\OOP.Task\\Task3\\Department.cs",
-              "RelativeDocumentMoniker": "OOP.Task\\Task3\\Department.cs",
-              "ToolTip": "C:\\Users\\Ali\\source\\repos\\HomeTask\\OOP.Task\\Task3\\Department.cs",
-              "RelativeToolTip": "OOP.Task\\Task3\\Department.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCcAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T19:24:55.503Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\HomeTask\\OOP.Task\\Task3\\Employee.cs",
-              "RelativeDocumentMoniker": "OOP.Task\\Task3\\Employee.cs",
-              "ToolTip": "C:\\Users\\Ali\\source\\repos\\HomeTask\\OOP.Task\\Task3\\Employee.cs",
-              "RelativeToolTip": "OOP.Task\\Task3\\Employee.cs",
-              "ViewState": "AgIAACgAAADgAAAAACA7wBUAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T19:24:42.332Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Shape.cs",
-              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\HomeTask\\OOP.Task\\Task2\\Shape.cs",
-              "RelativeDocumentMoniker": "OOP.Task\\Task2\\Shape.cs",
-              "ToolTip": "C:\\Users\\Ali\\source\\repos\\HomeTask\\OOP.Task\\Task2\\Shape.cs",
-              "RelativeToolTip": "OOP.Task\\Task2\\Shape.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAgwBsAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T18:48:41.486Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FullTimeEmployee.cs",
-              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\HomeTask\\HomeTask\\FullTimeEmployee.cs",
-              "RelativeDocumentMoniker": "HomeTask\\FullTimeEmployee.cs",
-              "ToolTip": "C:\\Users\\Ali\\source\\repos\\HomeTask\\HomeTask\\FullTimeEmployee.cs",
-              "RelativeToolTip": "HomeTask\\FullTimeEmployee.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T09:48:49.487Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ContractEmployee.cs",
-              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\HomeTask\\HomeTask\\ContractEmployee.cs",
-              "RelativeDocumentMoniker": "HomeTask\\ContractEmployee.cs",
-              "ToolTip": "C:\\Users\\Ali\\source\\repos\\HomeTask\\HomeTask\\ContractEmployee.cs",
-              "RelativeToolTip": "HomeTask\\ContractEmployee.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAqwBAAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T09:50:51.676Z"
+              "WhenOpened": "2025-02-28T22:15:33.214Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\HomeTask\\HomeTask\\Employee.cs",
-              "RelativeDocumentMoniker": "HomeTask\\Employee.cs",
-              "ToolTip": "C:\\Users\\Ali\\source\\repos\\HomeTask\\HomeTask\\Employee.cs",
-              "RelativeToolTip": "HomeTask\\Employee.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBAAAAAVAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\HomeTask\\AbstractionTasks\\Program.cs",
+              "RelativeDocumentMoniker": "AbstractionTasks\\Program.cs",
+              "ToolTip": "C:\\Users\\Ali\\source\\repos\\HomeTask\\AbstractionTasks\\Program.cs",
+              "RelativeToolTip": "AbstractionTasks\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T09:43:59.346Z",
+              "WhenOpened": "2025-02-28T21:37:48.642Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Person.cs",
-              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\HomeTask\\OOP.Part1Task\\Task2\\Person.cs",
-              "RelativeDocumentMoniker": "OOP.Part1Task\\Task2\\Person.cs",
-              "ToolTip": "C:\\Users\\Ali\\source\\repos\\HomeTask\\OOP.Part1Task\\Task2\\Person.cs",
-              "RelativeToolTip": "OOP.Part1Task\\Task2\\Person.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "IVehicle.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\HomeTask\\AbstractionTasks\\Task4\\IVehicle.cs",
+              "RelativeDocumentMoniker": "AbstractionTasks\\Task4\\IVehicle.cs",
+              "ToolTip": "C:\\Users\\Ali\\source\\repos\\HomeTask\\AbstractionTasks\\Task4\\IVehicle.cs",
+              "RelativeToolTip": "AbstractionTasks\\Task4\\IVehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T23:47:53.309Z"
+              "WhenOpened": "2025-02-28T22:14:20.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Refrigerator.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\HomeTask\\AbstractionTasks\\Task5\\Refrigerator.cs",
+              "RelativeDocumentMoniker": "AbstractionTasks\\Task5\\Refrigerator.cs",
+              "ToolTip": "C:\\Users\\Ali\\source\\repos\\HomeTask\\AbstractionTasks\\Task5\\Refrigerator.cs",
+              "RelativeToolTip": "AbstractionTasks\\Task5\\Refrigerator.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T14:15:16.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IHomeAppliance.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\HomeTask\\AbstractionTasks\\Task5\\IHomeAppliance.cs",
+              "RelativeDocumentMoniker": "AbstractionTasks\\Task5\\IHomeAppliance.cs",
+              "ToolTip": "C:\\Users\\Ali\\source\\repos\\HomeTask\\AbstractionTasks\\Task5\\IHomeAppliance.cs",
+              "RelativeToolTip": "AbstractionTasks\\Task5\\IHomeAppliance.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T14:13:35.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherCondition .cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\HomeTask\\AbstractionTasks\\Task6\\WeatherCondition .cs",
+              "RelativeDocumentMoniker": "AbstractionTasks\\Task6\\WeatherCondition .cs",
+              "ToolTip": "C:\\Users\\Ali\\source\\repos\\HomeTask\\AbstractionTasks\\Task6\\WeatherCondition .cs",
+              "RelativeToolTip": "AbstractionTasks\\Task6\\WeatherCondition .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T14:17:26.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TrafficLight.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\HomeTask\\AbstractionTasks\\Task7\\TrafficLight.cs",
+              "RelativeDocumentMoniker": "AbstractionTasks\\Task7\\TrafficLight.cs",
+              "ToolTip": "C:\\Users\\Ali\\source\\repos\\HomeTask\\AbstractionTasks\\Task7\\TrafficLight.cs",
+              "RelativeToolTip": "AbstractionTasks\\Task7\\TrafficLight.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T14:32:42.912Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\HomeTask\\OOP.Task\\Program.cs",
-              "RelativeDocumentMoniker": "OOP.Task\\Program.cs",
-              "ToolTip": "C:\\Users\\Ali\\source\\repos\\HomeTask\\OOP.Task\\Program.cs",
-              "RelativeToolTip": "OOP.Task\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAQwBIAAAA5AAAAAAAAAA==",
+              "Title": "IMovable.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\HomeTask\\AbstractionTasks\\Task4\\IMovable.cs",
+              "RelativeDocumentMoniker": "AbstractionTasks\\Task4\\IMovable.cs",
+              "ToolTip": "C:\\Users\\Ali\\source\\repos\\HomeTask\\AbstractionTasks\\Task4\\IMovable.cs",
+              "RelativeToolTip": "AbstractionTasks\\Task4\\IMovable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T18:09:27.973Z"
+              "WhenOpened": "2025-02-28T22:12:03.54Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\HomeTask\\OOP.Task\\Task1\\User.cs",
-              "RelativeDocumentMoniker": "OOP.Task\\Task1\\User.cs",
-              "ToolTip": "C:\\Users\\Ali\\source\\repos\\HomeTask\\OOP.Task\\Task1\\User.cs",
-              "RelativeToolTip": "OOP.Task\\Task1\\User.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACYAAAAkAAAAAAAAAA==",
+              "Title": "MultiFunctionPrinter.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\HomeTask\\AbstractionTasks\\Task3\\MultiFunctionPrinter.cs",
+              "RelativeDocumentMoniker": "AbstractionTasks\\Task3\\MultiFunctionPrinter.cs",
+              "ToolTip": "C:\\Users\\Ali\\source\\repos\\HomeTask\\AbstractionTasks\\Task3\\MultiFunctionPrinter.cs",
+              "RelativeToolTip": "AbstractionTasks\\Task3\\MultiFunctionPrinter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T18:12:52.203Z"
+              "WhenOpened": "2025-03-01T16:35:48.745Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\HomeTask\\OOP.Part1Task\\Program.cs",
-              "RelativeDocumentMoniker": "OOP.Part1Task\\Program.cs",
-              "ToolTip": "C:\\Users\\Ali\\source\\repos\\HomeTask\\OOP.Part1Task\\Program.cs",
-              "RelativeToolTip": "OOP.Part1Task\\Program.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAIwBMAAAAXAAAAAAAAAA==",
+              "Title": "IPrintable .cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\HomeTask\\AbstractionTasks\\Task3\\IPrintable .cs",
+              "RelativeDocumentMoniker": "AbstractionTasks\\Task3\\IPrintable .cs",
+              "ToolTip": "C:\\Users\\Ali\\source\\repos\\HomeTask\\AbstractionTasks\\Task3\\IPrintable .cs",
+              "RelativeToolTip": "AbstractionTasks\\Task3\\IPrintable .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T23:35:32.741Z"
+              "WhenOpened": "2025-02-28T22:07:46.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IScanable.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\HomeTask\\AbstractionTasks\\Task3\\IScanable.cs",
+              "RelativeDocumentMoniker": "AbstractionTasks\\Task3\\IScanable.cs",
+              "ToolTip": "C:\\Users\\Ali\\source\\repos\\HomeTask\\AbstractionTasks\\Task3\\IScanable.cs",
+              "RelativeToolTip": "AbstractionTasks\\Task3\\IScanable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T16:33:34.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\HomeTask\\AbstractionTasks\\Task1\\Circle.cs",
+              "RelativeDocumentMoniker": "AbstractionTasks\\Task1\\Circle.cs",
+              "ToolTip": "C:\\Users\\Ali\\source\\repos\\HomeTask\\AbstractionTasks\\Task1\\Circle.cs",
+              "RelativeToolTip": "AbstractionTasks\\Task1\\Circle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T21:38:10.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ISape.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\HomeTask\\AbstractionTasks\\Task1\\ISape.cs",
+              "RelativeDocumentMoniker": "AbstractionTasks\\Task1\\ISape.cs",
+              "ToolTip": "C:\\Users\\Ali\\source\\repos\\HomeTask\\AbstractionTasks\\Task1\\ISape.cs",
+              "RelativeToolTip": "AbstractionTasks\\Task1\\ISape.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAowAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T21:38:28.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IVehicle.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\HomeTask\\AbstractionTasks\\Task2\\IVehicle.cs",
+              "RelativeDocumentMoniker": "AbstractionTasks\\Task2\\IVehicle.cs",
+              "ToolTip": "C:\\Users\\Ali\\source\\repos\\HomeTask\\AbstractionTasks\\Task2\\IVehicle.cs",
+              "RelativeToolTip": "AbstractionTasks\\Task2\\IVehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T21:56:56.708Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "Car.cs",
-              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\HomeTask\\HomeTask\\Car.cs",
-              "RelativeDocumentMoniker": "HomeTask\\Car.cs",
-              "ToolTip": "C:\\Users\\Ali\\source\\repos\\HomeTask\\HomeTask\\Car.cs",
-              "RelativeToolTip": "HomeTask\\Car.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAwwC0AAAADAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\HomeTask\\AbstractionTasks\\Task2\\Car.cs",
+              "RelativeDocumentMoniker": "AbstractionTasks\\Task2\\Car.cs",
+              "ToolTip": "C:\\Users\\Ali\\source\\repos\\HomeTask\\AbstractionTasks\\Task2\\Car.cs",
+              "RelativeToolTip": "AbstractionTasks\\Task2\\Car.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-22T21:45:15.951Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "BankHesab\u0131.cs",
-              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\HomeTask\\HomeTask\\BankHesab\u0131.cs",
-              "RelativeDocumentMoniker": "HomeTask\\BankHesab\u0131.cs",
-              "ToolTip": "C:\\Users\\Ali\\source\\repos\\HomeTask\\HomeTask\\BankHesab\u0131.cs",
-              "RelativeToolTip": "HomeTask\\BankHesab\u0131.cs",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAwwEsAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-22T20:58:52.666Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\HomeTask\\HomeTask\\Program.cs",
-              "RelativeDocumentMoniker": "HomeTask\\Program.cs",
-              "ToolTip": "C:\\Users\\Ali\\source\\repos\\HomeTask\\HomeTask\\Program.cs",
-              "RelativeToolTip": "HomeTask\\Program.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-22T20:58:19.707Z"
+              "WhenOpened": "2025-02-28T21:59:20.928Z"
             }
           ]
         }

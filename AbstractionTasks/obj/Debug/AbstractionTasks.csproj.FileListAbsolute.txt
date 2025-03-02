@@ -1,0 +1,7 @@
+C:\Users\Ali\source\repos\HomeTask\AbstractionTasks\bin\Debug\AbstractionTasks.exe.config
+C:\Users\Ali\source\repos\HomeTask\AbstractionTasks\bin\Debug\AbstractionTasks.exe
+C:\Users\Ali\source\repos\HomeTask\AbstractionTasks\bin\Debug\AbstractionTasks.pdb
+C:\Users\Ali\source\repos\HomeTask\AbstractionTasks\obj\Debug\AbstractionTasks.csproj.AssemblyReference.cache
+C:\Users\Ali\source\repos\HomeTask\AbstractionTasks\obj\Debug\AbstractionTasks.csproj.CoreCompileInputs.cache
+C:\Users\Ali\source\repos\HomeTask\AbstractionTasks\obj\Debug\AbstractionTasks.exe
+C:\Users\Ali\source\repos\HomeTask\AbstractionTasks\obj\Debug\AbstractionTasks.pdb
